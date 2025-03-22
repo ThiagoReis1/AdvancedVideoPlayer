@@ -1,0 +1,4 @@
+opencv-python
+numpy
+python-vlc
+Pillow
